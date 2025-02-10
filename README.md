@@ -70,6 +70,9 @@
     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://docs.docker.com">
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHSCcu92RclAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718733973021?e=2147483647&v=beta&t=m_jjb1WeOnuj-UCMgyJSEa7qWjd1IcsdbG3qNhK05wc" alt="springboot" style="vertical-align:top; margin:4px;height:85px">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://auth0.com/docs/secure/tokens/json-web-tokens">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHSCcu92RclAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718733973021?e=2147483647&v=beta&t=m_jjb1WeOnuj-UCMgyJSEa7qWjd1IcsdbG3qNhK05wc" alt="jwt" style="vertical-align:top; margin:4px;height:85px">
   </a>
 </p>
