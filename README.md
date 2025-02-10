@@ -12,7 +12,7 @@
  </a>
 </p>
 
-> I’m a junior full-stack software developer 💻 with experience in building Web Applications using **Angular** 🖥️ (my favorite), **React** ⚛️, and **Vue** 🌱 for the frontend. For the backend, I work with **Spring Boot** 🌿 and **NestJS** 🔧, focusing on creating robust and scalable solutions. I’ve worked with databases like **PostgreSQL** 🗄️, **Microsoft SQL Server** 💾, **MongoDB** 🌐, and **Firebase** 🔥. Additionally, I develop mobile apps with **React Native** 📱(but I prefer work in backend 😁).
+> I’m a junior full-stack software developer 💻 with experience in building Web Applications using **Angular** 🖥️ , **React** ⚛️ for the frontend. For the backend, I work with **Spring Boot** 🌿 and **NestJS** 🔧, focusing on creating robust and scalable solutions. I’ve worked with databases like **PostgreSQL** 🗄️, **Microsoft SQL Server** 💾, **MongoDB** 🌐, and **Firebase** 🔥. Additionally, I develop mobile apps with **React Native** 📱(but I prefer work in backend 😁).
 
 >
 
