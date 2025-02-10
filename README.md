@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 
 - 🪞 **SkinForte:** A mobile app designed for a bussiness dedicated to sell products for skin care, this is developed on React Native using a Firebase database, <a href="https://github.com/arielGsDev/app-react-native-vinculacion.git" alt="SkinForte repository repository">repository.</a>
 
+## 📚 What I'm Learning
+
+- **ASP.NET Core**
+
 ## 🗣️ Languages and Tools 
 
 <p align="center">
@@ -71,6 +75,20 @@ Here are some ideas to get you started:
   </a>
   <a href="https://v2.tailwindcss.com/docs">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" style="vertical-align:top; margin:4px;">
+  </a>
+  </a>
+  <a href="https://docs.python.org/3/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/">
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" style="vertical-align:top; margin:4px;">
+  </a>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://docs.oracle.com/en/java/">
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://docs.docker.com">
     <img src="https://media.licdn.com/dms/image/v2/D4D12AQHSCcu92RclAw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718733973021?e=2147483647&v=beta&t=m_jjb1WeOnuj-UCMgyJSEa7qWjd1IcsdbG3qNhK05wc" alt="springboot" style="vertical-align:top; margin:4px;height:85px">
