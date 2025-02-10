@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 > I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 > 
+
+<p align="center">
+  <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
+</p>
