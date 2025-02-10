@@ -43,4 +43,8 @@ Here are some ideas to get you started:
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
 </p>
 
+## 🔥 Featured Projects
+- ✏️ onCodeWeb: A online courses platform developed in Angular for the <a href="https://github.com/arielGsDev/app-angular-on-code-web.git" alt="onCodeWeb frontend repository">frontend</a>
+
+
 
