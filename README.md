@@ -36,9 +36,7 @@ Here are some ideas to get you started:
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
 </p> -->
 
-## ![Octocat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) GitHub Stats
-
-<!-- ## GitHub Stats -->
+## 🐙 GitHub Stats
 
 <p align="center">
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
