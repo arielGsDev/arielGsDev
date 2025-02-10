@@ -36,6 +36,11 @@ Here are some ideas to get you started:
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
 </p> -->
 
-## GitHub Stats
+## ![Octocat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/arielGsDev/arielGsDev/main/github-metrics.svg" /></p>
+<!-- ## GitHub Stats -->
+
+<p align="center">
+  <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
+</p>
+
