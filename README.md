@@ -47,8 +47,23 @@ Here are some ideas to get you started:
 
 - ✏️ **onCodeWeb:** A online courses platform developed in Angular for the <a href="https://github.com/arielGsDev/app-angular-on-code-web.git" alt="onCodeWeb frontend repository">frontend</a> and NestJS for the <a href="https://github.com/arielGsDev/api-nest-on-code-web.git" alt="onCodeWeb backend repository">backend</a>
 
-- 🥕 **MoldyCarrots:** A mobile app for reviews of movies and series, developed in React Native for the <a href="https://github.com/arielGsDev/app-react-native-moldy-carrots.git" alt="MoldyCarrots frontend repository">frontend</a> and SprinBoot for the <a href="https://github.com/arielGsDev/api-springboot-moldy-carrots.git" alt="MoldyCarrots backend repository">backend</a> with services deployed in docker
+- 🥕 **MoldyCarrots:** A mobile app for reviews of movies and series, developed in React Native for the <a href="https://github.com/arielGsDev/app-react-native-moldy-carrots.git" alt="MoldyCarrots frontend repository">frontend</a> and SpringBoot for the <a href="https://github.com/arielGsDev/api-springboot-moldy-carrots.git" alt="MoldyCarrots backend repository">backend</a> with services deployed in docker
 
 - 🪞 **SkinForte:** A mobile app designed for a bussiness dedicated to sell products for skin care, this is developed on React Native using a Firebase database, <a href="https://github.com/arielGsDev/app-react-native-vinculacion.git" alt="SkinForte repository repository">repository.</a>
 
 ## 🗣️ Languages and Tools 
+
+<p align="center">
+  <a href="https://angular.dev/overview">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://react.dev">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://nuxt.com/docs/getting-started/introduction">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" alt="nuxt" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg" alt="nest" style="vertical-align:top; margin:4px;">
+  </a>
+</p>
