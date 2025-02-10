@@ -22,6 +22,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/-@arielGsDev-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/ariel-gavilanes-38283534b/" alt="ariel's linkedin">
-   <img src="https://img.shields.io/badge/-iammukeshm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
+   <img src="https://img.shields.io/badge/-Ariel Gavilanes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-gavilanes-38283534b/" />
  </a>
 </p>
