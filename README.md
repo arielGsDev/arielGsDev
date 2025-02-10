@@ -24,4 +24,7 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/ariel-gavilanes-38283534b/" alt="ariel's linkedin">
    <img src="https://img.shields.io/badge/-Ariel Gavilanes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariel-gavilanes-38283534b/" />
  </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=arielGsDev&color=ff69b4&style=flat-square" />
+ </a>
 </p>
