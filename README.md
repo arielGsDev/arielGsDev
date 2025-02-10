@@ -29,7 +29,8 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-> I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
+> I’m a junior full-stack software developer 💻 with experience in building Web Applications using **Angular** 🖥️ (my favorite), **React** ⚛️, and **Vue** 🌱 for the frontend. For the backend, I work with **Spring Boot** 🌿 and **NestJS** 🔧, focusing on creating robust and scalable solutions. I’ve worked with databases like **PostgreSQL** 🗄️, **Microsoft SQL Server** 💾, **MongoDB** 🌐, and **Firebase** 🔥. Additionally, I develop mobile apps with **React Native** 📱.
+
 > 
 
 <!-- <p align="center">
@@ -41,4 +42,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
 </p>
+
 
