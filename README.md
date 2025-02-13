@@ -22,7 +22,7 @@
   <a href="#" alt="arielGsDev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=arielGsDev" /></a>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielGsDev&layout=compact&theme=buefy&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielGsDev&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
 ## 🔥 Featured Projects
