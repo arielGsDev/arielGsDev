@@ -12,7 +12,7 @@
  </a>
 </p>
 
-> Soy un apasionado desarrollador full-stack con experiencia en la creación de aplicaciones web utilizando Angular y React en el frontend. En el backend, desarrollo soluciones robustas y escalables con Spring Boot, NestJS y Flask. He trabajado con bases de datos relacionales y NoSQL como PostgreSQL, Microsoft SQL Server, MongoDB y Firebase. Además, desarrollo aplicaciones móviles con React Native.
+> I am a passionate full-stack developer with experience in creating web applications using Angular and React on the frontend. On the backend, I develop robust and scalable solutions with Spring Boot, NestJS, and Flask. I have worked with relational and NoSQL databases such as PostgreSQL, Microsoft SQL Server, MongoDB, and Firebase. Additionally, I develop mobile applications with React Native.
 
 >
 
