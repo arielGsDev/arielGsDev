@@ -12,7 +12,7 @@
  </a>
 </p>
 
-> I’m a junior full-stack software developer 💻 with experience in building Web Applications using **Angular** 🖥️ , **React** ⚛️ for the frontend. For the backend, I work with **Spring Boot** 🌿 and **NestJS** 🔧, focusing on creating robust and scalable solutions. I’ve worked with databases like **PostgreSQL** 🗄️, **Microsoft SQL Server** 💾, **MongoDB** 🌐, and **Firebase** 🔥. Additionally, I develop mobile apps with **React Native** 📱(but I prefer work in backend 😁).
+> Soy un apasionado desarrollador full-stack con experiencia en la creación de aplicaciones web utilizando Angular y React en el frontend. En el backend, desarrollo soluciones robustas y escalables con Spring Boot, NestJS y Flask. He trabajado con bases de datos relacionales y NoSQL como PostgreSQL, Microsoft SQL Server, MongoDB y Firebase. Además, desarrollo aplicaciones móviles con React Native.
 
 >
 
